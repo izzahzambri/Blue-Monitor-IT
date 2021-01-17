@@ -1,5 +1,3 @@
-mvn compile com.softwaresecured.reshift:maven-plugin:LATEST:analyse     com.softwaresecured.reshift:maven-plugin:LATEST:upload     -Dreshift.token=V5p2lDv+aIFLcY8PStpEFOQ/CtitrqJoN7uF8iwQbjg=
-
 # Mini Project
 import tkinter
 import tkinter.ttk
