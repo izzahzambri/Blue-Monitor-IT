@@ -1,8 +1,11 @@
+mvn compile com.softwaresecured.reshift:maven-plugin:LATEST:analyse     com.softwaresecured.reshift:maven-plugin:LATEST:upload     -Dreshift.token=V5p2lDv+aIFLcY8PStpEFOQ/CtitrqJoN7uF8iwQbjg=
+
 # Mini Project
 import tkinter
 import tkinter.ttk
 import tkinter.messagebox
 import sqlite3
+
 
 class Database:
     def __init__(self):
